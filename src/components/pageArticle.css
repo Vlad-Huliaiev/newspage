@@ -1,0 +1,24 @@
+.page-article {
+  font-family: Montserrat;
+  background: rgb(255, 255, 255);
+  font-style: normal;
+  font-weight: normal;
+  padding: 10px 15px;
+}
+.page-article__title {
+  font-size: 26px;
+  line-height: 30px;
+  color: #000000;
+}
+.page-article__content {
+  display: block;
+  font-size: 16px;
+  line-height: 20px;
+  color: #575454;
+}
+.page-article__auth {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 700;
+  color: #000000;
+}
